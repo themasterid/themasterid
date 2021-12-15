@@ -15,4 +15,12 @@
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/dmitriy-klepikov/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=themasterid&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=ecmek&hide=contribs&show_icons=true&theme=dark">
+  <img  align="center" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=themasterid&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ecmek&layout=compact&theme=dark">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark" />
+</a>
+</div>
+
