@@ -1,7 +1,7 @@
-### ВСЕМ ПРИВЕТ 👋 Меня зовут Дмитрий.
-### Занимаюсь Backend разработкой на Python.
+### Приветствую! Дмитрий К. программист, разработчик, начинающий (пока).
+### Изучаю с 2020 года Python, GO, и другие технологии, с 2021 года обучаюсь в Яндекс.Практикум на Python-разработчик(back-end).
 
-## МОЙ СТЕК ТЕХНОЛОГИЙ
+## Основной стек технологий
 ![Python](/svg/python.svg)
 ![Django](/svg/django.svg)
 ![HTML](/svg/html-5.svg)
@@ -9,7 +9,7 @@
 ![Git](/svg/git.svg)
 
 
-## МОИ КОНТАКТЫ
+## Контакты
 [<img src="./svg/telegram.svg">](https://t.me/Dmitriy_id)
 [<img src="./svg/gmail.svg" width="90px" height="90px">](mailto:thebrootos@gmail.com)
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/dmitriy-klepikov/)
@@ -23,4 +23,3 @@
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark" />
 </a>
 </div>
-
