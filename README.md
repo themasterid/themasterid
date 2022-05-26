@@ -1,9 +1,9 @@
 ### Приветствую! Дмитрий К. программист, разработчик.
 Изучаю с 2020 года Python, немного Go и другие технологии.
-C 2021 года обучаюсь в Яндекс.Практикум по направлению Python - разработчик (back-end).
+C 2021 года прошел обучение в Яндекс.Практикум по направлению Python - разработчик (back-end).
 
 Стек технологий: 
-**Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, pytest, unittest, tdd, venv, API, json, Linux, nginx.**
+**Python, Django, Django REST Framework, REST API, PostgreSQL, Docker, Docker-compose, Yandex.Cloud, Bootstrap 4/5, HTML, CSS, git, pytest, unittest, tdd, venv, API, json, Linux, nginx**
 
 ## Основной стек технологий
 ![Python](/svg/python.svg)
