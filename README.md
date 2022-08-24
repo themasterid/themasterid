@@ -29,3 +29,6 @@ C 2021 года по 2022 год прошел обучение в Яндекс.�
   <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themasterid&layout=compact&theme=dark" />
 </a>
 </div>
+
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dmitriy-klepikov-6b6617245" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kz.linkedin.com/in/dmitriy-klepikov-6b6617245?trk=profile-badge">Dmitriy Klepikov</a></div>
+
