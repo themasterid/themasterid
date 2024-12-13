@@ -1,10 +1,4 @@
 ### Дмитрий К. Python разработчик.
-...
-
-.
-
-И тут много текста...
-
 Стек технологий:
 **Python, Django, DRF, Flask, FastApi, REST API, PostgreSQL, SQLA, Docker, Yandex\VK.Cloud, Bootstrap, Redis, Celery, Elasticsearch, ELK, HTML, CSS, git, js, API, json, Linux, nginx, CI/CD, etc**
 
